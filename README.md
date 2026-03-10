@@ -188,3 +188,5 @@ README.md
 
 Paulina Tornero
 Aspiring Data Scientist | Python | Machine Learning | Data Analysis
+
+-----
