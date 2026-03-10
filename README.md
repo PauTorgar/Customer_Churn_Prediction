@@ -2,9 +2,6 @@
 Customer churn prediction using Python, exploratory data analysis, and machine learning.
 ________________________________________________________________________________________
 
-
-# Customer Churn Prediction
-
 ## Project Overview
 
 Customer churn is one of the most important challenges for subscription-based businesses. Identifying customers who are likely to leave allows companies to take proactive actions to improve customer retention and reduce revenue loss.
