@@ -188,14 +188,3 @@ README.md
 
 Paulina Tornero
 Aspiring Data Scientist | Python | Machine Learning | Data Analysis
-
----
-
-## Future Improvements
-
-Potential improvements for this project include:
-
-* Testing additional machine learning models (Random Forest, XGBoost)
-* Hyperparameter tuning
-* Feature importance analysis using SHAP values
-* Deploying the model as a predictive API
